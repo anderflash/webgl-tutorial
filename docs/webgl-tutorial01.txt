@@ -18,3 +18,10 @@ $$x = \\sum_{i}^{N}{x^i}$$
    cv2.imshow('resultado',imagemlab)
    cv2.waitKey()
 
+.. code-block:: rst
+
+    Some text before.
+
+    .. note::
+
+        Some note.
